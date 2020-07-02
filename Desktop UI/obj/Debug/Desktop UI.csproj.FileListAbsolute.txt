@@ -1,0 +1,58 @@
+E:\GP\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe.config
+E:\GP\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe
+E:\GP\Desktop UI\Desktop UI\bin\Debug\Desktop UI.pdb
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Form1.resources
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Properties.Resources.resources
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop UI.csproj.GenerateResource.Cache
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop UI.exe
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop UI.pdb
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Home.resources
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop UI.csprojResolveAssemblyReference.cache
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.KinectConnected.resources
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Chat.resources
+E:\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe.config
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop UI.exe
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop UI.pdb
+E:\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe
+E:\Desktop UI\Desktop UI\bin\Debug\Desktop UI.pdb
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Chat.resources
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Form1.resources
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Home.resources
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.KinectConnected.resources
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Properties.Resources.resources
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop UI.csproj.GenerateResource.Cache
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.createavatar.resources
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.createtoic.resources
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.noconnect.resources
+E:\Desktop UI\Desktop UI\obj\Debug\Desktop UI.csprojResolveAssemblyReference.cache
+E:\فى التدريب\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe.config
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop UI.exe
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop UI.pdb
+E:\فى التدريب\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe
+E:\فى التدريب\Desktop UI\Desktop UI\bin\Debug\Desktop UI.pdb
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Chat.resources
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.createavatar.resources
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.createtoic.resources
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Form1.resources
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Home.resources
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.KinectConnected.resources
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.noconnect.resources
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Properties.Resources.resources
+E:\فى التدريب\Desktop UI\Desktop UI\obj\Debug\Desktop UI.csproj.GenerateResource.Cache
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe.config
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop UI.exe
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop UI.pdb
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\bin\Debug\Desktop UI.pdb
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Chat.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.createavatar.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.createtoic.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Form1.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Home.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.KinectConnected.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.noconnect.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Properties.Resources.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop UI.csproj.GenerateResource.Cache
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.check.resources
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\bin\Debug\M2Mqtt.Unity.dll
+C:\Users\TEEBA\Desktop\Desktop UI\Desktop UI\obj\Debug\transfer_data.Form2.resources
